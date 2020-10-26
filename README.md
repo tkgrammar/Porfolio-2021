@@ -1,2 +1,2 @@
-# tm-tool
-Time Management Tool
+# Tanner Grammar Portfolio
+Tanner Grammar Portfolio
